@@ -1,0 +1,85 @@
+#nav {
+    border-bottom: 1px solid #bbb;
+    width: 100vw;
+    height: 4vh;
+    margin: 0 -9999rem;
+    padding: 0.25rem 9999rem;
+    padding-bottom: .8vh;
+    margin-top: 0;
+}
+
+#header {
+    font-family: "Montserrat";
+    font-size: 8vw;
+    font-weight: 100;
+    color: #ccc;
+    width: 68%;
+    margin: auto;
+}
+
+#download {
+    font-family: "Montserrat";
+    font-size: 4vw;
+    font-weight: 100;
+    color: #ccc;
+    width: 65% !important;
+    margin: auto !important;
+    text-decoration: none !important;
+}
+
+.header {
+    margin-top: 0 !important;
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: "Montserrat", "sans-serif";
+    font-size: 1.3vw;
+    text-decoration: none !important;
+    display: inline;
+    color: #ccc;
+    padding-bottom: .8vw;
+    font-weight: 600
+}
+
+.header span {
+    margin-left: 3vw;
+    padding-left: 3vw;
+}
+
+.links-head {
+    display: table-cell;
+    vertical-align: middle;
+    float: right;
+    padding-right: 4vw;
+    font-size: 1.1vw;
+    padding-left: 0vw;
+}
+
+.dropbtn {
+    display: none;
+    color: transparent;
+}
+
+.dropdown {
+    display: none;
+}
+
+.dropdown-content {
+    display: none;
+}
+
+.dropdown-content a {
+    display: none;
+}
+
+body {
+    background-image: linear-gradient(141deg, #222222 0%, #444 81%, #555 100%);
+    background-position: top;
+    background-size: 200%;
+}
+
+html {
+    height: 200%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
