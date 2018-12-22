@@ -1,8 +1,13 @@
 #header {
-    font-size: 15vw;
+    font-size: 20vw;
     font-family: "Montserrat";
     color: #ccc;
     text-align: center;
+}
+
+#projects {
+    font-size: 7vw;
+    color: #ccc;
 }
 
 body {
