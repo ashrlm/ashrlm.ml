@@ -8,31 +8,27 @@
     margin-top: 0;
 }
 
-#main-body {
-    height: 96vh;
-    position: absolute;
-    left: 5vw;;
-    top: 50vh;
-    font-size: 8vw;
+#header {
     font-family: "Montserrat";
+    font-size: 8vw;
+    font-weight: 100;
     color: #ccc;
-    z-index: 100;
+    width: 68%;
+    margin: auto;
 }
 
-#links-head {
-    display: none;
+#download {
+    font-family: "Montserrat";
+    font-size: 4vw;
+    font-weight: 100;
+    color: #ccc;
+    width: 65% !important;
+    margin: auto !important;
+    text-decoration: none !important;
 }
 
-#bstostopthedropdownbreakingonapple {
-    width: 100vw;
-    height: 100vw;
-    overflow-y: hidden !important;
-    overflow: hidden !important;
-    z-index: -999999999;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background-image:
+#portrait-break {
+    font-size: 50vw;
 }
 
 .dropbtn {
@@ -100,21 +96,14 @@
     display: none;
 }
 
-.tagline {
-    font-size: 4vw;
-}
 body {
     background-image: linear-gradient(141deg, #222222 0%, #444 81%, #555 100%);
-    background-size: cover;
     background-position: top;
-    background-repeat: no-repeat;
-    overflow-y: hidden !important;
-    overflow-x: hidden !important;
-    overflow: hidden !important;
-    z-index: 9999999999999;
-    position: fixed;
+    background-size: 200%;
 }
 
 html {
-    height: 100%;
+    height: 200%;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }

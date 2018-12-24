@@ -47,11 +47,6 @@
     display: none;
 }
 
-.tagline {
-    font-size: 2vw;
-    padding-left: 0;
-    margin-left: 0;
-}
 
 .header {
     margin-top: 0 !important;
@@ -79,6 +74,12 @@
     padding-right: 4vw;
     font-size: 1.1vw;
     padding-left: 0vw;
+}
+
+.tagline {
+    font-size: 2vw;
+    padding-left: 0;
+    margin-left: 0;
 }
 
 body {
