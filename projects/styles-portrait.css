@@ -8,6 +8,7 @@
 #projects {
     font-size: 7vw;
     color: #ccc;
+    text-decoration: none !important;
 }
 
 body {
@@ -19,5 +20,5 @@ body {
 html {
     height: 101%;
     overflow-x: hidden;
-    overflow-y: scroll;
+    overflow-y: hidden;
 }
