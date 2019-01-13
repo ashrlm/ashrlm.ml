@@ -1,13 +1,13 @@
 #header {
     font-size: 25vh;
     font-family: "Montserrat";
-    color: #ccc;
+    color: #bababa;
     text-align: center;
 }
 
-#projects {
+#projects-link {
     font-size: 9vh;
-    color: #ccc;
+    color: #aaa;
     text-decoration: none !important;
 }
 
