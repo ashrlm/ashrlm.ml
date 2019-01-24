@@ -13,7 +13,6 @@
     font-size: 8vw;
     font-weight: 100;
     color: #ccc;
-    width: 68%;
     margin: auto;
 }
 
@@ -23,7 +22,8 @@
     font-weight: 100;
     color: #ccc;
     width: 65% !important;
-    margin: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important
     text-decoration: none !important;
 }
 
