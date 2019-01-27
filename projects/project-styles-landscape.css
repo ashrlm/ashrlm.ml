@@ -26,6 +26,15 @@
     text-decoration: none !important;
 }
 
+#project-content {
+    font-family: "Montserrat";
+    font-size: 1.5vw;
+    font-weight: 100;
+    color: #ccc !important;
+    width: 85%;
+    margin: auto !important;
+}
+
 .dropbtn {
     display: none;
     color: transparent;
@@ -79,7 +88,7 @@ body {
 }
 
 html {
-    height: 200%;
+    height: 100%;
     overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-y: scroll;
 }
